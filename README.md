@@ -22,11 +22,11 @@ Please note that the dataset is licensed under CC BY 4.0.
 
 ```
 .
-├── README.md		: description of this repository
-├── data			: interim and processed data
+├── README.md         : description of this repository
+├── data              : interim and processed data
 │   ├── interim
 │   └── processed
-├── main.py			: short script to perform QC
+├── main.py	      : short script to perform QC
 └── venv
 ```
 
