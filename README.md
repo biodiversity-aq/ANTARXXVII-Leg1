@@ -26,7 +26,7 @@ Please note that the dataset is licensed under CC BY 4.0.
 ├── data              : interim and processed data
 │   ├── interim
 │   └── processed
-├── main.py	      : short script to perform QC
+├── main.py	      : short script to check media url
 └── venv
 ```
 
